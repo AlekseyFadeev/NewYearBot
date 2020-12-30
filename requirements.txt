@@ -13,7 +13,6 @@ click==7.1.2
 contextvars==2.4
 cycler==0.10.0
 cymem==2.0.5
-dataclasses==0.8
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
@@ -92,7 +91,6 @@ six==1.15.0
 sniffio==1.2.0
 spacy==2.3.5
 srsly==1.0.5
-terminado==0.9.1
 testpath==0.4.4
 thinc==7.4.5
 threadpoolctl==2.1.0
